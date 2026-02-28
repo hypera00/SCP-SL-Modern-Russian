@@ -1,13 +1,15 @@
 ## 🛠 Как скачать и использовать:
 
-1. Скачайте <b>ZIP-архив</b> с переводом.**пп**
+1. **Скачайте ZIP-архив** с переводом.
+2. **Распакуйте содержимое** архива в папку с игрой по пути:
+   `Steam\steamapps\common\SCP Secret Laboratory\Translations`
 
-2. <b>Распакуйте содержимое</b> архива в папку с игрой по следующему пути:
-``Steam\steamapps\common\SCP Secret Laboratory\Translations``
+   > **Как быстро найти папку:**
+   > Библиотека Steam → ПКМ на **SCP:SL** → **Управление** → **Просмотреть локальные файлы** → папка `Translations`.
 
-> <b>Как найти папку:</b> зайдите в библиотеку <b>Steam</b> → нажмите правой кнопкой мыши на <b>SCP:SL</b> → раздел </b>«Управление»</b> → <b>«Просмотреть локальные файлы»</b> → откройте папку ``Translations``.
+3. **Запустите игру** и в настройках измените язык на **Russian (mod)**.
 
-3. <B>Запустите игру</B> и в настройках измените язык на <b>Russian (mod)</b>
+---
 
-## 📝 Благодарности
-Данный перевод был основан на переводе от: [SCP-SL-Custom-Translation-Files](https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files)
+### 📝 Благодарности
+Этот перевод был вдохновлен проектом: [SCP-SL-Custom-Translation-Files](https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files)
