@@ -1,4 +1,4 @@
-<b>Как скачать и использовать:</b>
+## Как скачать и использовать:
 
 1. Скачайте ZIP-архив с переводом
 
@@ -10,4 +10,4 @@
 3. Запустите игру и в настройках измените язык на <b>Russian (mod)</b>
 
 
-Данный перевод был основан на переводе от: https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files
+<b>Данный перевод был основан на переводе от: https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files</b>
