@@ -9,3 +9,5 @@
 
 3. Запустите игру и в настройках измените язык на <b>Russian (mod)</b>
 
+
+Данный перевод был основан на переводе от: https://github.com/Corporal1Lambda/SCP-SL-Custom-Translation-Files
