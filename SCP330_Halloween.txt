@@ -1,0 +1,40 @@
+🍬Конфеты🎃
+<color=#B22222><b>🌈</b> Р</color><color=#FF7F50>а</color><color=#FFD700>д</color><color=#ADFF2F>у</color><color=#00CED1>ж</color><color=#BA55D3>н</color><color=#9370DB>а</color><color=#B22222>я</color> <color=#FF7F50>К</color><color=#FFD700>о</color><color=#ADFF2F>н</color><color=#00CED1>ф</color><color=#BA55D3>е</color><color=#9370DB>т</color><color=#DDA0DD>а 🍬</color>
+\n\n<size=75%><color=#DA70D6>Твёрдая карамель, наполненная всевозможными вкусами. Сладость или гадость?</color></size>
+\n\n\n\n<size=150%><color=#32CD32>\uf0c2</color><color=#FFFFFF> Выпускает радужное облако на <b>40с.</b>\n<color=#DC143C>💗</color><color=#FFFFFF> Туман восстанавливает <b>5 HP/с</b>\n<color=#BA55D3>\uf3ed</color><color=#FFFFFF> В тумане частично игнорируется\n критический урон</size>
+<color=#DAA520>🍋 Желтая конфета 🍬</color>
+\n<size=75%><color=#DAA520>Невыносимый запах лимона заставляет ваше лицо сморщиться. Сладость или гадость?</color></size>
+\n<size=150%><color=#DAA520>🏃</color><color=#FFFFFF> Вызывает неконтролируемый\n ускоренный бег на <b>15с.</b></color></size>
+<color=#BA55D3><b>🍇</b> Фиолетовая конфета 🍬</color>
+\n<size=75%><color=#BA55D3>Имеет сочный запах винограда. Аж слюнки текут. Сладость или гадость?</color></size>
+\n<size=150%><color=#BA55D3>\uf3ed</color><color=#FFFFFF> Применяется <b>330 AHP</b>, которое постепенно\n снижается в течение <b>40с.</b>\n<color=#BA55D3>🍴</color><color=#FFFFFF> Ускоряет применение конфет</color></size>
+<color=#DC143C><b>🍒</b> Красная конфета 🍬</color>
+\n<size=75%><color=#DC143C>Сильный аромат вишни наполняет комнату. Он немного... нет, <i>слишком</i> сильный. Сладость или гадость?</color></size>
+\n<size=150%><color=#DC143C>🔥</color><color=#FFFFFF> Выпускает поток пламени, наносящий\n <b>60 урона/с</b> в течение <b>10с.</b></color></size>
+<color=#32CD32>🌿 Зелёная конфета 🍬</color>
+\n<size=75%><color=#32CD32>От конфеты исходит неприятный травяной запах. Сладость или гадость?</color></size>
+\n<size=150%><color=#32CD32>\uf3ed</color><color=#FFFFFF> Применяется <b>300 HP</b> на <b>20с.</b>\n<color=#32CD32>💗</color><color=#FFFFFF> Постепенно восстанавливает <b>6 HP/с</b></color></size>
+<color=#87CEFA>🍬 Синяя конфета 🍬</color>
+\n<size=75%><color=#87CEFA>Пахнет мягко и сладко, чем-то напоминает зефир. Сладость или гадость?</color></size>
+\n\n<size=150%><color=#87CEFA>\uf54c</color><color=#FFFFFF> Превращает в зефирного монстра на <b>15с.</b>, обладающего <b>450 AHP</b> и наносящего <b>55 урона</b>\n<color=#87CEFA><b>📦</b></color><color=#FFFFFF> Выбрасывает предметы из инвентаря</color></size>
+<color=#DA70D6>🍓 Розовая конфета 🍬</color>
+\n<size=75%><color=#DA70D6>Аромат клубники так же нежен, как и цвет. Сладость или гадость?</color></size>
+\n<color=#DA70D6>💥</color><color=#FFFFFF> Мгновенный █████</color>
+<color=#DA5E20><b>🍊</b> Оранжевая конфета 🍬</color>
+\n<size=75%><color=#DA5E20>От конфеты исходит цитрусовый аромат, а её поверхность завораживает своим блеском. Сладость или гадость?</color></size>
+\n<size=150%><color=#DA5E20><b>\uf185</b></color><color=#FFFFFF> Вспыхиваешь ярким светом на <b>20с.</b>, ослепляя всех, кто посмотрит на тебя</color></size>
+<color=#CCCCCC><b>👻</b> Белая конфета 🍬</color>
+\n<size=75%><color=#CCCCCC>Из обёртки исходит отчётливый сладкий запах. Но, кажется, внутри нет самой конфеты... Сладость или гадость?</color></size>
+\n<size=150%><color=#CCCCCC>\uf6e2</color><color=#FFFFFF> Превращает в призрака на <b>25с.</b>, позволяя проходить сквозь двери\n<color=#CCCCCC>✋</color><color=#FFFFFF> В это время нельзя брать предметы</color></size>
+<color=#4F4F4F>🍬 Серая конфета 🍬</color>
+\n\n<size=75%><color=#4F4F4F>От этой неожиданно тяжёлой конфеты исходит лёгкий запах свинца. Сладость или гадость?</color></size>
+\n\n\n<size=150%><color=#4F4F4F>\uf3ed</color><color=#FFFFFF> Физический урон снижается\nна <b>80%</b> в течение <b>30с.</b>\n<color=#4F4F4F>🐌</color> Замедляет скорость передвижения на <b>30%</b>\n<color=#4F4F4F>\uf696</color> Падение с высоты наносит урон\nжертвам вокруг</color></size>
+<color=#1C1C1C>🍬 Чёрная конфета 🍬</color>
+\n<size=75%><color=#1C1C1C>Подавляющий запах пустоты вызывает у вас тошноту. Вы помните, как пробовали её бесконечное количество раз, но не можете вспомнить вкус. Сладость или гадость?</color></size>
+\n<size=100%><color=#1C1C1C>\uf522</color><color=#FFFFFF> Накладывает случайный эффект</color></size>
+<color=#70462C><b>☕️</b> Коричневая конфета 🍬</color>
+\n<size=75%><color=#70462C>Знакомый аромат кофе манит вас. Сладость или гадость?</color></size>
+\n<size=150%><color=#70462C>🐌</color><color=#FFFFFF> Оставляет лужу, замедляющую проходящих через неё</color></size>
+<color=#B20000>💀 Злая конфета 🍬</color>
+\n<size=75%><color=#B20000>Эта конфета пульсирует зловещей энергией. Сладость или гадость?</color></size>
+\n\n<size=150%><color=#B20000>\uf54c</color><color=#FFFFFF> Превращает в зефирного монстра навсегда, обладающего <b>450 AHP</b> и наносящего <b>55 урона</b>\n<color=#B20000><b>📦</b></color><color=#FFFFFF> Выбрасывает предметы из инвентаря\n<color=#B20000>\uf05b</color> Включает <b>Friendly Fire</b></color></size>

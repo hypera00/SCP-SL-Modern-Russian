@@ -1,0 +1,70 @@
+0~<size=%25><color=#bcb1e4>💳 Ключ-карта 💳</size>\n<size=%20>Уборщика</color></size>
+1~<size=%25><color=#FFFF7C>💳 Ключ-карта 💳</size>\n<size=%20>Научного Сотрудника</color></size>
+2~<size=%25><color=#dd7c20>💳 Ключ-карта 💳</size>\n<size=%20>Научного Руководителя</color></size>
+3~<size=%25><color=#217778>💳 Ключ-карта 💳</size>\n<size=%20>Менеджера Зон Содержания</color></size>
+4~<size=%25><color=#5B6370>💳 Ключ-карта 💳</size>\n<size=%20>Охранника</color></size>
+5~<size=%25><color=#70C3FF>💳 Ключ-карта 💳</size>\n<size=%20>Рядового МОГ</color></size>
+6~<size=%25><color=#007e4a>💳 Ключ-карта 💳</size>\n<size=%20>Инженера Камер Содержания</color></size>
+7~<size=%25><color=#0096FF>💳 Ключ-карта 💳</size>\n<size=%20>Оперативника МОГ</color></size>
+8~<size=%25><color=#003DCA>💳 Ключ-карта 💳</size>\n<size=%20>Капитана МОГ</color></size>
+9~<size=%25><color=#ba1846>💳 Ключ-карта 💳</size>\n<size=%20>Менеджера Комплекса</color></size>
+10~<size=%22><color=#008F1C>📟 Устройство Взлома 📟</size>\n<size=%19>Повстанцев Хаоса</color></size>
+11~<size=%25><color=#FFFFFF>💳 Ключ-карта 💳</size>\n<size=%20>Совета О5</color></size>
+12~<color=#439673>📻 Рация 📻</color>~<size=65%>Обеспечивает связь между устройствами на дальних расстояниях. Дальность можно регулировать.</size>\n\n<b>SR</b> - 108м\n<b>MR</b> - 180м\n<b>LR</b> - 1080м\n<b>UR</b> - 7200м
+13~<color=#f5f572><size=100%>\uf05b COM-15 \uf05b</size>\n<size=50%>Полуавтоматический пистолет</size></color>
+14~<color=#00c86f>\uf0fa Аптечка \uf0fa</color>~<size=75%>Позволяет залечить несмертельные раны.</size>\n\n<color=#f57caa>💗</color> Исцеляет <b>65 HP</b></color>
+15~<color=#FF8E00>🔦 Фонарик 🔦</color>~Да будет свет!
+16~<color=#003DCA><size=100%>⚡ Micro H.I.D. ⚡</size>\n<size=50%>"Проект Сегментум"</size></color>~<size=145%>Тяжёлое электрическое устройство, предназначенное для уничтожения аномалий.\n\n[ЛКМ] : 400 DPS\n[ПКМ] : 1000 DPS\n<color=#767676>🏃</color> Поглощение стамины - <b>30%</b></size>
+17~<color=#ff0000>💊 SCP-500 💊</color>~<size=90%><color=#f57caa>💗</color> Полностью исцеляет игрока\n<color=#f57caa>💗</color> Дополнительно исцеляет <b>200 HP</b>\n<color=#ffb4ff>♻️</color> Снимает большинство негативных эффектов</size>~<color=#ff0000><size=95%>"Панацея"</size></color>
+18~<color=#550000>\uf72f SCP-207 \uf72f</color>~<size=74%><color=#767676>🏃</color>  Повышает скорость передвижения\n<color=#767676>🏃</color> Бесконечная стамина\n<color=#f57caa>💔</color> Постепенно отнимает <b>HP</b>\n\n</size><size=75%>Улучшает двигательные функции в ущерб здоровью.\nНЕ СМЕШАВАТЬ С:\n<color=#1db100>SCP-1853</color>\n<color=#ff98f7>O-207-914</color></size>~<color=#550000><size=95%>"Кока-кола"</size></color>
+19~<b>12/70 Buckshot</b>
+20~<color=#0096FF><size=100%>\uf05b MTF-E11-SR \uf05b</size>\n<size=50%>Штурмовая винтовка</size></color>
+21~<color=#70C3FF><size=100%>\uf05b Crossvec \uf05b</size>\n<size=50%>Пистолет-пулемёт</size></color>
+22~<b>5.56x45mm</b>
+23~<color=#4e5258><size=100%>\uf05b FSP-9 \uf05b</size>\n<size=50%>Пистолет-пулемёт</size></color>
+24~<color=#0D7D35><size=100%>\uf05b LGC5 \uf05b</size>\n<size=50%>Ручной пулемёт</size></color>
+25~<color=#0096FF><size=100%>💥 Осколочная граната 💥</size>\n<size=80%>Модель M67</size></color>~<size=85%><color=orange>💥</color> Наносит <b>900</b> урона по <color=red>SCP</color>.\n<color=#8079FF>\uf3ed</color> <b>2x</b> урон по <color=#8079FF>Адаптивному Щиту</color>.\n<color=orange>🔥</color> Причиняет ожоги раненым игрокам.\n🕒 Время до взрыва <b>3,5с.</b></size>
+26~<color=#4e5258><size=100%>💣 Световая граната 💣</size>\n<size=80%>Модель CTS 7290</size></color>~<size=90%><color=#5B6370>\uf070</color> Ослепляет вражеских игроков на время до <b>5с.</b>\n🕒 Время до взрыва <b>2,8с.</b></size>
+27~<b>.44 Mag</b>
+28~<b>7.62x39mm</b>
+29~<b>9x19mm</b>
+30~<color=#f5f572><size=100%>\uf05b COM-18 \uf05b</size>\n<size=50%>Полуавтоматический пистолет</size></color>
+31~<color=#ac2121>⚾ SCP-018 ⚾</color>~<size=85%><color=#ffeb00>👥</color> Терпимость к FF - <b>10с.</b>\n💨 Скорость удваивается с каждым отскоком.\n<color=#ac2121>🎯</color> <b>10x</b> урон по <color=red>SCP</color>.\n<color=orange>💥</color> Взрывается через <b>80с.</b></size>~<color=#ac2121><size=95%>"Мяч «Super Ball»"</size></color>
+32~<color=#ae9170>👒 SCP-268 👒</color>~<size=75%>Делает вас невидимым при надевании. Эффект невидимости пропадёт при любом взаимодействии.</size>\n\n <color=#b144b1>\uf070</color> Невидимость - <b>15с.</b>~<color=#ae9170><size=95%>"Кепка-невидимка"</size></color>
+33~<color=#FFFF7C>💉 Адреналин 💉</color>~<size=90%><color=#55da09>\uf3ed</color> Применяет <b>40 AHP</b>\n<color=#767676>🏃</color> Восполняет стамину.\n<color=#767676>🏃</color> Бесконечная стамина - <b>8с.</b></size>
+34~<color=#FFFF7C>\uf490 Обезболивающие \uf490</color>~<size=65%>Медленно восстанавливает здоровье с течением времени.</size>\n\n<color=#f57caa>💗</color> Исцеляет <b>50 HP</b>
+35~<color=#eeeeee>💰 Монетка 💰</color>~Кажется, она стоит 25 центов!
+36~<color=#4e5258>🎽 Лёгкая броня 🎽</color>
+37~<color=#5180f7>🎽 Боевая броня 🎽</color>
+38~<color=#1841c8>🎽 Тяжёлая броня 🎽</color>
+39~<color=#006826><size=100%>\uf05b .44 Magnum \uf05b</size>\n<size=50%>Пистолет "Магнум"</size></color>
+40~<color=#008F1C><size=100%>\uf05b KEK-72B \uf05b</size>\n<size=50%>Штурмовая винтовка</size></color>
+41~<color=#006826><size=100%>\uf05b DP-12 \uf05b</size>\n<size=50%>Помповое ружьё</size></color>
+42~<color=#4a5a94>🍬 SCP-330 🍬\n<size=55%><i>"Сладость или гадость?"</i></size></color>~Мешок содержит следующие конфеты:
+43~<color=#6fc475>💡 SCP-2176 👻</color>~<size=75%><color=#f5f17c>💡</color> Отключение света - <b>13с.</b>\n<color=#b97cf5>🚪</color> Блокировка - <b>13с.</b>\n<color=#7DF9FF>⚡</color> Активирует Тесла Ворота.\n<color=#8080FF>💻</color> Оглушение <color=#8080FF>SCP-079</color> - <b>8с.</b>\n\n</size><size=75%>Если в комнате выключен свет или она заблокирована, <b>SCP-2176</b> вызывает обратное действие.</size>~<color=#6fc475><size=95%>"Призрачный свет"</size></color>
+44~<color=#8de3ff>❄️ SCP-244-A ❄️</color>~<size=85%><color=#8de3ff><b>\uf0c2</b></color> Создает облако ледяного тумана\n<color=#8de3ff>❄️</color> Туман вызывает гипотермию</size>~<color=#8de3ff><size=95%>"Кувшин с ледяным туманом"</size></color>
+45~<color=#8de3ff>❄️ SCP-244-B ❄️</color>~<size=85%><color=#8de3ff><b>\uf0c2</b></color> Создает облако ледяного тумана\n<color=#8de3ff>❄️</color> Туман вызывает гипотермию</size>~<color=#8de3ff><size=95%>"Кувшин с ледяным туманом"</size></color>
+46~<color=#1db100>\uf492 SCP-1853 \uf492</color>~<size=67%><color=#95D600>\uf05b</color> Уменьшение неточности ADS - <b>20%</b>\n<color=#95D600>\uf05b</color> Уменьшение отдачи оружия - <b>20%</b>\n<color=#95D600>\uf05b</color> Уменьшение времени перезарядки - <b>35%</b>\n<color=#95D600>💳</color> Ускорено подбирание предметов - <b>50%</b>\n\n</size><size=75%>Улучшает производительность, когда жизнь под угрозой.\nНЕ СМЕШАВАТЬ С:\n<color=#550000>SCP-207</color>\n<color=#ff98f7>O-207-914</color></size>~<color=#1db100><size=95%>"Допинг"</size></color>
+47~<color=#1841c8><size=100%>\uf05b 3-X Разрушитель Частиц \uf05b</size>\n<size=70%>"Экспериментальное вооружение"</size></color>~<size=150%>Странное оружие, стреляющее мощными дезинтегрирующими энергетическими лучами.\n\n[ЛКМ] : 3x250 урона\n[ПКМ] : 800 урона</size>
+48~<color=#e76a5c><size=100%>\uf05b COM-45 \uf05b</size>\n<size=50%>Глокинатор!!</size></color>
+49~<color=#d1b769>🔊 SCP-1576 🔊</color>~<size=85%><color=#CCCCCC><b>👻</b></color> Даёт возможность поговорить с мертвыми\n🕒 Время связи - <b>30с.</b></size>~<color=#d1b769><size=95%>"Коммуникатор загробной жизни"</size></color>
+50~<color=#037ffc><size=100%>🍭 Арестант 🍭</size>\n<size=75%>"O-2536-2"</size></color>~<size=75%>Это… Электрошоковая Дубинка!?</size>\n\n<size=85%>[ЛКМ] : 50 урона\n[ПКМ] : 200 урона\n<color=#8079FF>\uf3ed</color> Игнорирует <color=#8079FF>Адаптивный Щит</color>.</size>
+51~<color=#ff98f7>\uf72f O-207-914 \uf72f</color>~<size=74%><color=#767676>🐌</color> Замедляет скорость передвижения\n<color=#f57caa>💗</color> Постепенно восстанавливает <b>HP</b>\n<color=#55da09>\uf3ed</color> Даёт <b>75 AHP</b>\n\n</size><size=75%>Сохранит вашу жизнь в критической ситуации.\nНЕ СМЕШАВАТЬ С:\n<color=#1db100>SCP-1853</color>\n<color=#550000>SCP-207</color></size>~<color=#ff98f7><size=95%>"Анти-кола"</size></color>
+52~<color=#003DCA><size=100%>\uf05b FR-MG-0 \uf05b</size>\n<size=50%>Ручной пулемёт</size></color>
+53~<color=#e76a5c><size=100%>\uf05b A7 \uf05b</size>\n<size=50%>Ружьё-приклад</size></color>
+54~<color=#b2ac7b>🏮 Лампа 🏮</color>~<size=80%>Классическая керосиновая лампа, на которой выгравировано имя "Даниэль"</size>
+55~<color=#56b1a0>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Даёт возможность видеть людей через стены.</size>\n\n<b>НЕ СНИМАТЬ НИ В КОЕМ СЛУЧАЕ</b>~<color=#56b1a0><size=95%>"Очки глазохваты"</size></color>
+56~<color=#CCCCCC>\uf2dc Снежок \uf2dc</color>~<size=85%>[Обычный] : 15 урона\n[Заряженный] : 30 урона\n<color=#ac2121>🎯</color> <b>X2</b> урон в голову\n<color=#8079FF>\uf3ed</color> Игнорирует <color=#8079FF>Адаптивный Щит</color></size>
+57~<color=#1C1C1C>🌑 Уголь 🌑</color>~Ты в списке непослушных!
+58~<color=#BD0808>🌀 SCP-2536-2 🌀</color>~При попадании телепортирует жертву к ближайшему <color=#DC143C>SCP</color>.~<color=#BD0808><size=95%>"Уголь?"</size></color>
+59~<color=#FF59CA>📼 Кассетный плеер? 📼</color>~<size=95%>Запуск аудиозаписи через 3..2..1..\n\n<b>Призывает орду:</b>\n<color=#FF59CA>SCP-1507</color></size>
+60~Перемещатель рэгдолла~Инструмент отладки\n (Нет официальной поддержки)
+61~<size=%25><color=#a77bd2>\uf70c Эвакуационный 💳</size>\n<size=%24>Пропуск</color></size>~Одноразовый пропуск, открывающий ворота на поверхность.
+62~<color=#8b5e5e>\uf5c9 SCP-127 \uf5c9\n<size=55%><i>"Живое оружие"</i></size></color>
+68~<color=#E9967A>🔪 SCP-1509 🐜</color>~<size=75%>Острый, как смерть, клинок, который обращает павших в союзников.</size>\n\n<size=77%>[ЛКМ] : 50 урона</size>\n<line-height=95%><size=100%><cspace=-0.1em><color=#55da09>♻️</color></size><size=77%> У</cspace>бив им человека, вы воскресите <line-height=95%>союзника (КД: <b>30с.</b>)\n<line-height=95%><color=#8079FF>\uf3ed</color> Даёт <b>35 HS</b></size>~<color=#E9967A><size=95%>"Клинок перерождения"</size></color>
+69~<#C4CEF2>\uf72f SCP-021-J \uf72f</color>~<size=80%>Эта бутылка пульсирует зловещей энергией.</size>\n\n<size=55%><color=#FF4C4C>\uf54c</color> Превращает в зефирного монстра навсегда, обладающего <b>450 AHP</b> и наносящего <b>90 урона</b>\n<color=#FF4C4C><b>📦</b></color> Выбрасывает предметы из инвентаря\n<color=#FF4C4C>\uf05b</color> Включает <b>FF</b> для игрока</color></size>~<color=#C4CEF2><size=95%>"Злая :("</size></color>
+
+#############
+
+<color=#eeeeee>💰 Монетка 💰</color>~Кажется, она стоит 25 центов!
+

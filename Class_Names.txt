@@ -1,0 +1,30 @@
+<color=#DC143C><b> SCP-173 </b></color>
+<color=#FF8E00><b> Персонал Класса D </b></color>
+<color=#d2d4c1><b> Наблюдатель </b></color>
+<color=#DC143C><b> SCP-106 </b></color>
+<color=#00AFFF><b> МОГ-Специалист </b></color>
+<color=#DC143C><b> SCP-049 </b></color>
+<color=#FFFF7C><b> Научный Сотрудник </b></color>
+<color=#8080FF><b> SCP-079 </b></color>
+<color=#559101><b> П.Х. Новобранец </b></color>
+<color=#DC143C><b> SCP-096 </b></color>
+<color=#99102b><b> SCP-049-2 </b></color>
+<color=#0096FF><b> МОГ-Сержант </b></color>
+<color=#003DCA><b> МОГ-Капитан </b></color>
+<color=#70C3FF><b> МОГ-Рядовой </b></color>
+<color=#ff00b0><b> Обучение </b></color>
+<color=#5B6370><b> Охранник </b></color>
+<color=#DC143C><b> SCP-939-168 </b></color>
+-
+<color=#008F1C><b> П.Х. Стрелок </b></color>
+<color=#066328><b> П.Х. Мародёр </b></color>
+<color=#15853D><b> П.Х. Усмиритель </b></color>
+<b>Надзиратель</b>
+<b>Режиссёр</b>
+<color=#DC143C><b> SCP-3114 </b></color>
+Уничтоженный
+<color=#FF59CA><b> SCP-1507 </b></color>
+<color=#FF0099><b> SCP-1507-Альфа </b></color>
+<color=#DC143C><b> SCP-1507-049 </b></color>
+<color=#0096FF><b> МОГ-Фламинго </b></color>
+<color=#066328><b> П.Х. Фламинго </b></color>

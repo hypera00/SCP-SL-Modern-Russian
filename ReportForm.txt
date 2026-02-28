@@ -1,0 +1,7 @@
+<size=120%><b><color=#ff4500>🚨 Жалоба на Игрока 🚨</color></b></size>
+  <b><color=#4682b4>👤</color> Игрок:\n  <color=#ffa500>🆔</color> ID Игрока:\n  <color=#32cd32>📝</color> Описание:</b>
+<size=150%><color=red><b>❌</color> Отмена</b></size>
+<size=100%><color=#209cda><b>🌐</color> Жалоба на нарушение правил сервера</b></size>\n <size=75%><color=red>(Будет направлена администрации сервера)</color></size>
+<size=100%><color=#b22222><b>⚠️</color> Жалоба на читерство или рейдерство</b></size>\n <size=75%><color=red>(Будет направлена глобальной администрации)</color></size>
+<size=80%><b><color=#007bff>📤</color> ОТПРАВЛЯЕМ ЖАЛОБУ</b></size>
+Пожалуйста, подождите...

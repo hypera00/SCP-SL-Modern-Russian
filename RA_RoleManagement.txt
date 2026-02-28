@@ -1,0 +1,29 @@
+НИКТО
+<color=#DC143C> SCP-173 </color>
+<color=#FF8E00> КЛАСС-D </color>
+Наблюдатель
+<color=#DC143C> SCP-106 </color>
+<color=#00AFFF> СПЕЦИАЛИСТ МОГ </color>
+<color=#DC143C> SCP-049 </color> 
+<color=#FFFF7C> УЧЁНЫЙ </color>
+<color=#8080FF> SCP-079 </color>
+<color=#007519> П.Х. НОВОБРАНЕЦ </color>
+<color=#DC143C> SCP-096 </color>
+<color=#99102b> SCP-049-2 </color>
+<color=#0096FF> СЕРЖАНТ МОГ </color>
+<color=#003DCA> КАПИТАН МОГ </color>
+<color=#70C3FF> РЯДОВОЙ МОГ </color>
+<color=#ff00b0> ОБУЧЕНИЕ </color>
+<color=#5B6370> ОХРАННИК </color>
+<color=#DC143C> SCP-939 </color>
+Пользовательская Роль
+<color=#008F1C> П.Х. СТРЕЛОК </color>
+<color=#0D7D35> П.Х. МАРОДЁР </color>
+<color=#006826> П.Х. УСМИРИТЕЛЬ </color>
+<color=#87CEFA> Надзиратель </color>
+<color=#363636> Режиссёр </color>
+<color=#DC143C> SCP-3114 </color>
+Уничтоженный
+<color=#FF59CA> SCP-1507 </color>
+<color=#FF0099> SCP-1507-Альфа </color>
+<color=#DC143C> SCP-1507-049 </color>

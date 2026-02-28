@@ -1,0 +1,6 @@
+<color=red>Доступ запрещён</color>
+<color=yellow>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type] боеприпасов</color> (<color=yellow>[max_type_count] патронов</color>).
+<color=red>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type] боеприпасов</color> (<color=yellow>[max_type_count] патронов</color>).
+<color=yellow>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type]</color> (<color=yellow>[max_type_count] предмета</color>).
+<color=red>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type]</color> (<color=yellow>[max_type_count] предмета</color>).
+<color=red>❌</color>\nИНВЕНТАРЬ ПОЛНЫЙ

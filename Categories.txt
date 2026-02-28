@@ -1,0 +1,10 @@
+<color=#FFFFFF><b>Неизвестно</b></color>
+<color=#FFFFFF><b>Ключ-карт</b></color>
+<color=#FFFFFF><b>Медицины</b></color>
+<color=#FFFFFF><b>Раций</b></color>
+<color=#FFFFFF><b>Оружия</b></color>
+<color=#FFFFFF><b>Гранат</b></color>
+<color=#FFFFFF><b>SCP Предметов</b></color>
+<color=#FFFFFF><b>Особого Оружия</b></color>
+<color=#FFFFFF><b>Патронов</b></color>
+<color=#FFFFFF><b>Брони</b></color>

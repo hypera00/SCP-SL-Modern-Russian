@@ -1,0 +1,6 @@
+<color=blue>🎬</color> Видео
+<color=purple>♫</color> Аудио
+<color=#53f502>🎮</color> Управление
+<color=orange>💻</color> Интерфейс
+<color=#616161><size=120%>🔒</size></color> Прочее
+<color=#20b2aa>\uf233</color> Сервер

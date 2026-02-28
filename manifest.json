@@ -1,0 +1,22 @@
+{
+	"Name": "<b><color=#f6f6f6>Ру</color><color=#6080ff>сск</color><color=#ff6060>ий</color> (mod)</b>",
+	"Authors": [
+		"<b><color=red>Hypera ❤</color></b>"
+	],
+	"InterfaceLocales": [
+		"ru-RU",
+		"ru"
+	],
+	"SystemLocales": [
+		"ru-BY",
+		"ru-KZ",
+		"ru-KG",
+		"ru-MD",
+		"ru-RU",
+		"ru-UA",
+		"ru"
+	],
+	"ForcedFontOrder": [
+
+	]
+}
