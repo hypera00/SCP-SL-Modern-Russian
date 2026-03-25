@@ -60,7 +60,7 @@ Fullstack-Разработчик Northwood
 Нарративный Дизайнер Northwood
 Руководитель Маркетинговой Платформы Northwood
 Ведущий Звукоинженер Northwood
-Координатор Перевода Nortwood
+Координатор Перевода Northwood
 Директор Службы Безопасности Northwood
 Советник по Безопасности Northwood
 Заместитель Директора Службы Безопасности Northwood
@@ -128,7 +128,7 @@ VFX-дизайнер Northwood
 Победитель Мероприятия SCP:SL (Fanart Contest 2018)
 Победитель Мероприятия SCP:SL (Foxt PVP Tournament)
 Победитель Мероприятия SCP:SL (TinyyTonyy Parkour)
-Победитель Мероприятия SCP:SL(Sticker Competition)
+Победитель Мероприятия SCP:SL (Sticker Competition)
 Победитель Мероприятия SCP:SL (Infernal Battles 2023)
 Победитель Мероприятия SCP:SL (Maze Madness 2023)
 Победитель Мероприятия SCP:SL (Jailbird Brawl 2023)
