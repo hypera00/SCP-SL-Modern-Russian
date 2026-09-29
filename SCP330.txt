@@ -1,22 +1,22 @@
 Конфеты
 <color=#B22222><b>🌈</b> Р</color><color=#FF7F50>а</color><color=#FFD700>д</color><color=#ADFF2F>у</color><color=#00CED1>ж</color><color=#BA55D3>н</color><color=#9370DB>а</color><color=#B22222>я</color> <color=#FF7F50>К</color><color=#FFD700>о</color><color=#ADFF2F>н</color><color=#00CED1>ф</color><color=#BA55D3>е</color><color=#9370DB>т</color><color=#DDA0DD>а 🍬</color>
 \n\n\n<size=75%><color=#DA70D6>Твёрдая карамель, наполненная всевозможными вкусами.</color></size>
-\n\n\n\n<size=150%><color=#DC143C>💗</color><color=#FFFFFF> Мгновенно восстанавливает <b>15 HP</b>\n<color=#DAA520>🏃</color><color=#FFFFFF> Бесконечная стамина - <b>5с.</b>\n<color=#BA55D3>\uf3ed</color><color=#FFFFFF> Постоянное уменьшение урона - <b>5%</b>\n<color=#32CD32>\uf3ed</color><color=#FFFFFF> Эффект Rainbow tasty - <b>10с.</b>\n<color=#87CEFA>\uf3ed</color><color=#FFFFFF> Применяется <b>20 AHP</b> на <b>10с.</b></color></size>
+\n\n\n\n<size=150%><color=#DC143C>💗</color><color=#FFFFFF> Исцеляет <b>15 HP</b>\n<color=#DAA520>🏃</color><color=#FFFFFF> Даёт бесконечную стамину на <b>5с.</b>\n<color=#BA55D3>\uf3ed</color><color=#FFFFFF> Уменьшает получаемый урон на <b>5%</b>\n<color=#32CD32>\uf3ed</color><color=#FFFFFF> Ослабляет негативные эффекты на <b>10с.</b>\n<color=#87CEFA>\uf3ed</color><color=#FFFFFF> Накладывает <b>20 AHP</b> на <b>10с.</b></color></size>
 <color=#DAA520>🍋 Желтая конфета 🍬</color>
 \n<size=75%><color=#DAA520>Подавляющий запах лимона заставляет вас немного съёжиться.</color></size>
-\n\n<size=150%><color=#DAA520>🏃</color><color=#FFFFFF> Восстанавливает <b>25%</b> стамины\n<color=#DAA520>🏃</color><color=#FFFFFF> Бесконечная стамина - <b>8с.</b>\n<color=#DAA520>🏃</color><color=#FFFFFF> <b>10%</b> увеличение скорости - <b>8с.</b></color></size>
+\n\n<size=150%><color=#DAA520>🏃</color><color=#FFFFFF> Восстанавливает <b>25%</b> стамины\n<color=#DAA520>🏃</color><color=#FFFFFF> Даёт бесконечную стамину на <b>8с.</b>\n<color=#DAA520>🏃</color><color=#FFFFFF> Увеличивает скорость на <b>10%</b> на <b>8с.</b></color></size>
 <color=#BA55D3><b>🍇</b> Фиолетовая конфета 🍬</color>
 \n<size=75%><color=#BA55D3>Имеет сочный запах винограда. У вас начинают течь слюни.</color></size>
-\n\n\n\n<size=150%><color=#BA55D3>\uf3ed</color><color=#FFFFFF> <b>20%</b> уменьшение урона - <b>15c.</b>\n<color=#BA55D3>💗</color> Постепенно восстанавливает <b>15 HP</b></size>
+\n\n<size=150%><color=#BA55D3>\uf3ed</color><color=#FFFFFF> Уменьшает получаемый урон на <b>20%</b> - <b>15c.</b>\n<color=#BA55D3>💗</color> Постепенно исцеляет <b>15 HP</b></size>
 <color=#DC143C><b>🍒</b> Красная конфета 🍬</color>
 \n<size=75%><color=#DC143C>Сильный аромат вишни наполняет комнату. Он немного... нет,  <i>достаточно</i> сильный.</color></size>
-\n<color=#DC143C>💗</color><color=#FFFFFF> Восстанавливает <b>45 HP</b>
+\n<color=#DC143C>💗</color><color=#FFFFFF> Исцеляет <b>45 HP</b>
 <color=#32CD32>🌿 Зелёная конфета 🍬</color>
 \n<size=75%><color=#32CD32>От конфеты исходит неприятный травяной запах.</color></size>
-\n\n<size=150%><color=#32CD32>\uf3ed</color><color=#FFFFFF> Иммунитет к большинству негативных\n эффектов - <b>30с.</b>\n<color=#32CD32>💗</color><color=#FFFFFF> Постепенно восстанавливает <b>120 HP</b></color></size>
+\n\n<size=150%><color=#32CD32>\uf3ed</color><color=#FFFFFF> Иммунитет к большинству негативных\n эффектов на <b>30с.</b>\n<color=#32CD32>💗</color><color=#FFFFFF> Постепенно исцеляет <b>120 HP</b> в течении <b>80с.</b></color></size>
 <color=#87CEFA>🍬 Синяя конфета 🍬</color>
-\n<size=75%><color=#87CEFA>Пахнет мягко и сладко, чем-то напоминает зефир.</color></size>
-<color=#87CEFA>\uf3ed</color><color=#FFFFFF> Применяется <b>30 AHP</b> навсегда</color>
+<size=75%><color=#87CEFA>Пахнет мягко и сладко, чем-то напоминает зефир.</color></size>
+<color=#87CEFA>\uf3ed</color><color=#FFFFFF> Накладывает <b>30 AHP</b> навсегда</color>
 <color=#DA70D6>🍓 Розовая конфета 🍬</color>
 \n<size=75%><color=#DA70D6>Аромат клубники так же нежен, как и цвет.</color></size>
 \n<color=#DA70D6>💥</color><color=#FFFFFF> Мгновенный █████</color>
