@@ -29,7 +29,7 @@
 28~<b>7.62x39mm</b>
 29~<b>9x19mm</b>
 30~<color=#f5f572><size=100%>\uf05b COM-18 \uf05b</size>\n<size=50%>Полуавтоматический пистолет</size></color>
-31~<color=#ac2121>⚾ SCP-018 ⚾</color>~<size=70%><color=#ffeb00>👥</color> Не наносит урон союзникам <b>10с.</b>\n💨 Удваивает скорость после каждого отскока\n<color=#ac2121>🎯</color> Наносит <b>10x</b> урон по <color=#DC143C>SCP</color></size>\n\n<size=95%><color=orange>💥</color> Взрывается через <b>80с.</b></size>~<color=#ac2121><size=95%>"Мяч «Super Ball»"</size></color>
+31~<color=#ac2121>🎃 Джеки 🎃</color>~<size=70%><color=#ffeb00>👥</color> Не наносит урон союзникам <b>10с.</b>\n💨 Удваивает скорость после каждого отскока\n<color=#ac2121>🎯</color> Наносит <b>10x</b> урон по <color=#DC143C>SCP</color></size>\n\n<size=95%><color=orange>💥</color> Взрывается через <b>80с.</b></size>~<color=#ac2121><size=95%>"Мяч «Super Ball»"</size></color>
 32~<color=#ae9170>👒 SCP-268 👒</color>~<size=70%>Делает вас невидимым при надевании. Эффект невидимости пропадёт при любом взаимодействии.</size>\n\n<size=88%> <color=#b144b1>\uf070</color> Невидимость действует <b>15с.</b></size>~<color=#ae9170><size=95%>"Кепка-невидимка"</size></color>
 33~<color=#FFFF7C>💉 Адреналин 💉</color>~<size=70%><color=#767676>🏃</color> Восстанавливает запас стамины\n<color=#767676>🏃</color> Даёт бесконечную стамину на <b>8с.</b>\n<color=#55da09>\uf3ed</color> Накладывает <b>40 AHP</b></size>
 34~<color=#FFFF7C>\uf490 Обезболивающие \uf490</color>~<size=65%>Медленно восстанавливает здоровье с течением времени.</size>\n\n<color=#f57caa>💗</color> Исцеляет <b>50 HP</b>
